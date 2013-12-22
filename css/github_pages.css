@@ -1,0 +1,27 @@
+/* Styles for shelleyvadams.github.io */
+
+body {
+    font-family:sans-serif;
+    color:#333;
+}
+
+body > * { line-height:1.4em; }
+
+body > footer {
+    font-size:80%;
+    margin:2em auto 0.5em;
+    padding:1em 0 0 0.5em;
+    border-top:thin solid Silver;
+}
+
+a.image {
+    display:inline-block;
+    vertical-align:middle;
+    margin:auto 0.5em;
+}
+
+.pull-right {
+    display:block;
+    clear:right;
+    float:right;
+}
