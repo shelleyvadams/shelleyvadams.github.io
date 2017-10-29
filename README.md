@@ -1,9 +1,7 @@
 shelleyvadams.github.io
 =======================
 
-My personal website, hosted on [GitHub Pages](http://pages.github.com/).
-
-[Have a look.](http://shelleyvadams.github.io/)
+My [personal website](http://shelleyvadams.github.io/), hosted on [GitHub Pages](http://pages.github.com/).
 
 * * *
 
